@@ -1,0 +1,12 @@
+E1/.idea
+E1/data
+E1/images
+E1/intel-image-classification
+exam/.idea
+*.csv
+*.zip
+*.pth
+*.json
+FS23 Solutions
+E1/GroundingDINO_SwinB_cfg.py
+*.tgz
